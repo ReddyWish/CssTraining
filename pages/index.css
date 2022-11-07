@@ -10,6 +10,8 @@
 @import "../blocks/information/__experience/information__experience.css";
 @import "../blocks/information/__name/information__name.css";
 @import "../blocks/information/__photo/information__photo.css";
+@import "../blocks/information/__triangle/information__triangle.css";
+@import "../blocks/information/__triangle/animation/animation.css";
 @import "../blocks/time/time.css";
 @import "../blocks/time/__title/time__title.css";
 @import "../blocks/table-wrap/table-wrap.css";
