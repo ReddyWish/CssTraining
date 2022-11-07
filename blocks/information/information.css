@@ -1,0 +1,14 @@
+.information {
+    display: grid;
+    max-width: 100%;
+    padding-bottom: 25px;
+    grid-template-columns: 30% 30% 40%;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    column-gap: 25px;
+    grid-template-areas:
+    'photo name .'
+    'photo age .'
+    'photo experience .'
+    'photo about about'
+
+}

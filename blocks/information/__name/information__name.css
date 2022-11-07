@@ -1,0 +1,7 @@
+.information__name {
+    grid-area: name;
+    align-self: center;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}

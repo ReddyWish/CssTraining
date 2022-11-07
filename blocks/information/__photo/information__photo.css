@@ -1,0 +1,5 @@
+.information__photo {
+    grid-area: photo;
+    border-radius: 50%;
+    box-shadow: 5px 5px 14px slategray;
+}

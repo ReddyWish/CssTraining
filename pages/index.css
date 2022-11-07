@@ -1,0 +1,24 @@
+@import "../vendor/reset.css";
+@import "../vendor/body.css";
+@import "../vendor/fonts/fonts.css";
+@import "../blocks/page/page.css";
+@import "../blocks/header/header.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/information/information.css";
+@import "../blocks/information/__about/information__about.css";
+@import "../blocks/information/__age/information__age.css";
+@import "../blocks/information/__experience/information__experience.css";
+@import "../blocks/information/__name/information__name.css";
+@import "../blocks/information/__photo/information__photo.css";
+@import "../blocks/time/time.css";
+@import "../blocks/time/__title/time__title.css";
+@import "../blocks/table-wrap/table-wrap.css";
+@import "../blocks/video/__iframe/video__iframe.css";
+@import "../blocks/video/__iframes/video__iframes.css";
+@import "../blocks/video/__title/video__title.css";
+@import "../blocks/contacts/contacts.css";
+@import "../blocks/contacts/__link/contacts__link.css";
+@import "../blocks/contacts/__links/contacts__links.css";
+@import "../blocks/contacts/__title/contacts__title.css";
+
+

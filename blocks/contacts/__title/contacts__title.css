@@ -1,0 +1,9 @@
+.contacts__title {
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 700;
+}
