@@ -1,0 +1,12 @@
+.information__triangle {
+    background-image: url("../../../image/triangle.svg");
+    position: absolute;
+    object-fit: cover;
+    width: 800px;
+    height: 800px;
+    right: -150px;
+    top: -95px;
+    z-index: -2;
+    background-size: contain;
+    opacity: 0.2;
+}
